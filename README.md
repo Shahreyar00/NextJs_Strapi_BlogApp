@@ -7,3 +7,6 @@ npx create-strapi-app@latest my-project
 ```
 npm run develop
 ```
+****
+![screencapture-localhost-3000-2022-09-26-14_45_16](https://user-images.githubusercontent.com/70688937/192260625-84870173-1de5-4e5d-a78e-5ec3cab6f1f9.png)
+****
