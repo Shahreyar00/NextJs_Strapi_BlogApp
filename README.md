@@ -4,3 +4,6 @@ You have to create your own backend using strapi. You just have to follow the st
 ```
 npx create-strapi-app@latest my-project
 ```
+```
+npm run develop
+```
